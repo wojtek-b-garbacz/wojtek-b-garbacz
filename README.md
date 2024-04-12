@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @wojtek-b-garbacz
+- 👋 Hi, I’m Wojtek Bartosz Garbacz
 - 👀 I’m interested in IoT and automation 
 - 🌱 I’m currently learning Docker and Python
-- 💞️ 
+- 💞️ Making HW for electronic drums 
 - 📫 I am reachable with wojtek.b.garbacz@gmail.com
 
 <!---
